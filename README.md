@@ -10,6 +10,7 @@ Vulnscan/<br/>
 ├── README.md<br/>
 ├── vulnscan.png<br/>
 ├── Vulnerability scanning using Greenbone Security Assistant.docx<br/>
+├── Vulnerability scanning using Greenbone Security Assistant.pdf<br/>
 
 ---
 
